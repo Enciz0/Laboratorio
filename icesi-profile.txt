@@ -1,2 +1,3 @@
 Nombres: Juan David 
-Apellidos: Encizo
+Apellidos: Encizo López 
+Fecha nacimiento: 2004/08/20
